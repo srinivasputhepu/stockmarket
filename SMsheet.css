@@ -1,0 +1,208 @@
+body {
+    background-image: linear-gradient(90deg, rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("C:\\Users\\srinivasputhepu\\Desktop\\Srinu\\stockwall.jpg");
+    background-size: cover;
+}
+
+.logo {
+    width: 70px;
+    height: 70px;
+    float: left;
+    left: 20px;
+}
+
+.text {
+    color: white;
+    font-size: xx-large;
+    position: relative;
+    left: 5px;
+    text-shadow: 0px 0px 5px rgb(76, 190, 235);
+}
+
+marquee {
+    background-color: transparent;
+    font-family: helvetica;
+    font-size: 13px;
+}
+
+.itc {
+    color: rgb(0, 180, 0);
+}
+
+.hul {
+    color: rgb(0, 180, 0);
+}
+
+.HDFCBANK {
+    color: red;
+}
+
+.vbl {
+    color: rgb(0, 180, 0);
+}
+
+.BHARTIARTL {
+    color:rgb(0, 180, 0);
+}
+
+.BAJFINANCE {
+    color:rgb(0, 180, 0);
+}
+
+.NIFTYBANK {
+    color:rgb(0, 180, 0);
+}
+
+.INDIGO {
+    color: red;
+}
+
+.MARUTI {
+    color:rgb(0, 180, 0);
+}
+
+.RELIANCE {
+    color:rgb(0, 180, 0);
+}
+
+.SBIN {
+    color: red;
+}
+
+.TCS {
+    color:rgb(0, 180, 0);
+}
+
+.NIFTY50 {
+    color:rgb(0, 180, 0);
+}
+
+.SENSEX {
+    color: red;
+}
+
+.search {
+    width: 340px;
+    height: 20px;
+    position: relative;
+    left: 320px;
+    background-color: transparent;
+    border-radius: 7px;
+    border: none;
+    padding: 10px;
+    color: white;
+    font-family: helvetica;
+}
+
+button img {
+    width: 15px;
+    height: 15px;
+}
+
+.search {
+    width: 350px;
+    background-color: transparent;
+    border: 1px solid lightgrey;
+}
+
+input {
+    width: 300px;
+    border: none;
+    background-color: transparent;
+    color: white;
+    outline: none;
+}
+
+button {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.signup {
+    float: right;
+    color: white;
+    font-size: 20px;
+    font-family: Arial;
+    position: relative;
+    top: 15px;
+    right: 130px;
+    cursor: pointer;
+    transition: linear 0.15s; 
+}
+
+.signup:hover {
+    color: aqua;
+}
+
+.login {
+    float: right;
+    color: white;
+    font-size: 20px;
+    font-family: arial;
+    position: relative;
+    top: 15px;
+    left: 30px;
+    cursor: pointer;
+    transition: linear 0.15s;
+}
+
+.login:hover {
+    color: aqua;
+}
+
+.mobile {
+    float: right;
+}
+
+.welcome {
+    color: white;
+    font-size: 50px;
+}
+
+.caption {
+    color: white;
+    font-size: 30px;
+}
+
+ul {
+    font-size: 20px;
+    color: white;
+}
+
+ul li .hyperlinks {
+    color: white;
+    text-decoration: none;
+}
+
+ul li {
+    line-height: 30px;
+}
+
+ul li:hover {
+    color: aqua;
+}
+
+ul li .hyperlinks:hover {
+    color: aqua;
+}
+
+.navs ul {
+    list-style-type: none;
+}
+
+.navs ul li .navlinks {
+    text-decoration: none;
+    color: lightgrey;
+}
+
+.navs ul li {
+    font-size: 15px;
+    font-family: calibri;
+    display: inline-block;
+    position: relative;
+    top: 145px;
+    left: 375px;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+}
